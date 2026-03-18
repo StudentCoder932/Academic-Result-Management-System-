@@ -1,0 +1,12 @@
+FIRST INSTALL all requirements
+base()
+
+create superuser
+
+python manage.py createsuperuser
+username:
+email:
+password:
+
+and access the dashboard and moniter all 
+
